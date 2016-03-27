@@ -9,3 +9,5 @@ ipykernel 4.3.1
 ipython 4.1.2   
 
 pandas 0.18.0
+
+pytest 2.8.5
